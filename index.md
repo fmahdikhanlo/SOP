@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# SOP
+                                                    
+                                                   <<انگیزه نامه>>   
+                                                   
+                                                   
+                                                   
+یک برنامه نویس خوب کسی هست که وقتی می خواهد از یک خیابان یک طرف عبور کند , هر دو طرف رو نگاه کند. (Doug Linder)
 
-You can use the [editor on GitHub](https://github.com/fmahdikhanlo/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmahdikhanlo/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+من فاطمه مهدیخانلو هستم متولد سال 1373/07/24 , دانشجوی کارشناسی رشته مهندسی کامپیوتر دانشگاه پیام نور; من اوایل (قبل دوران دانشجویی) با رشته کامپیوتر آشناییت چندانی نداشتم و بعد اینکه در این رشته قبول شدم و با علم آن شناخت پیدا کردم نسبت به این رشته علاقمند شدم به ویژه در زمینه شبکه و مهندسی نرم افزار و در یکی از دانشگاه های تهران نیز قصد ادامه تحصیل خواهم داشت. و اصلی ترین دلیل من برای ادامه تحصیل نیز علاقه من نسبت به این رشته می باشد, این رشته در تمام علوم کاربرد دارد و همین باعث شد نسبت به یادگیری علم کامپیوتر مشتاق تر شوم.
